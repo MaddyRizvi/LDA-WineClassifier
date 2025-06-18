@@ -22,6 +22,16 @@ linear_discriminant_analysis/
 └── CONTRIBUTING.md                      # Guide for contributing
 ```
 
+### ✅ Decision Boundary Visualizations
+
+**Training Set:**
+
+![Image](https://github.com/user-attachments/assets/cde2c63c-b602-4400-ae50-cda880190c0d)
+
+**Test Set:**
+
+![Image](https://github.com/user-attachments/assets/bd853eab-96b6-4739-9503-db9708086782)
+
 ---
 
 ## 🛠 Requirements
